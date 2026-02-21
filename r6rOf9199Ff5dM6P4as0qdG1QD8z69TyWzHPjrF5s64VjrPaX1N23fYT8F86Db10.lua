@@ -149,7 +149,7 @@ function Library:Window(title)
     Resize.Position = UDim2.new(1, -4, 1, -4)
     Resize.Size = UDim2.new(0, 16, 0, 16)
     Resize.ZIndex = 2
-    Resize.Image = "rbxassetid://3926307971"
+    Resize.Image = "rbxassetid://17803262434"
     Resize.ImageColor3 = Color3.fromRGB(186, 13, 68)
     Resize.ImageRectOffset = Vector2.new(204, 364)
     Resize.ImageRectSize = Vector2.new(36, 36)
