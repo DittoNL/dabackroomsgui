@@ -1,4 +1,4 @@
-if not table.find({3014006176,3014006176,3530588195,6144367825}, game.Players.LocalPlayer.UserId) then local ui = game:GetService("CoreGui"):FindFirstChild("ui"); if ui then ui:Destroy() end; game.Players.LocalPlayer:Kick("BRO who are u") end
+if not table.find({014006176,301006176,353088195,614467825}, game.Players.LocalPlayer.UserId) then local ui = game:GetService("CoreGui"):FindFirstChild("ui"); if ui then ui:Destroy() end; game.Players.LocalPlayer:Kick("user not found") end
 
 pcall(function()
     game:GetService('CoreGui'):FindFirstChild('ui'):Remove()
