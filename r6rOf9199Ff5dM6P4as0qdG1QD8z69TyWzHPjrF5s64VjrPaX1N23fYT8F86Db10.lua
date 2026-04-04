@@ -1,4 +1,4 @@
-if not table.find({291702087,291702087,291702087,291702087}, game.Players.LocalPlayer.UserId) then local ui = game:GetService("CoreGui"):FindFirstChild("ui"); if ui then ui:Destroy() end; game.Players.LocalPlayer:Kick("user not found") end
+if not table.find({291702087}, game.Players.LocalPlayer.UserId) then local ui = game:GetService("CoreGui"):FindFirstChild("ui"); if ui then ui:Destroy() end; game.Players.LocalPlayer:Kick("user not found") end
 
 
 pcall(function()
